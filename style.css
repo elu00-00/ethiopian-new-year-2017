@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(flat-lay-yellow-sunflowers_86156-1144.avif);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  font-size: 7.5em;
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 35%;
+  left: 30%;
+  color: rgba(105, 105, 24, 0.998);
+}
+ul {
+  display: flex;
+  gap: 30px;
+  background-color: rgba(255, 255, 0, 0.404);
+  list-style: none;
+  padding: 20px;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
+  color: rgb(63, 75, 21);
+}
